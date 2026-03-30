@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LEsL4y9xk7fDNhDOn4kA0NDMJqEWgylNRoUwPgxJZ/J1J3T9DWOMxn5xOXJvMrNfBw3JjrqxrNtCcSr3NKW92A==",
+  "success": true,
+  "projectFilePath": "/Users/sashosha/ST-4/BugPro/BugPro.csproj",
+  "expectedPackageFiles": [
+    "/var/folders/x7/z0f1vjjs4yj_wwgfmmyz7zjc0000gn/T/cursor-sandbox-cache/f889410acc4d60a95dcbd5c1355aeb33/nuget/stateless/5.13.0/stateless.5.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

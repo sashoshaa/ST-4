@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sashosha/ST-4/BugPro/BugPro.csproj": {}
+  },
+  "projects": {
+    "/Users/sashosha/ST-4/BugPro/BugPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sashosha/ST-4/BugPro/BugPro.csproj",
+        "projectName": "BugPro",
+        "projectPath": "/Users/sashosha/ST-4/BugPro/BugPro.csproj",
+        "packagesPath": "/var/folders/x7/z0f1vjjs4yj_wwgfmmyz7zjc0000gn/T/cursor-sandbox-cache/f889410acc4d60a95dcbd5c1355aeb33/nuget",
+        "outputPath": "/Users/sashosha/ST-4/BugPro/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sashosha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Stateless": {
+              "target": "Package",
+              "version": "[5.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

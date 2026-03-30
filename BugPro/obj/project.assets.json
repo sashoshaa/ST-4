@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Stateless/5.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Stateless.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Stateless.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stateless/5.13.0": {
+      "sha512": "M4Rb4b31TUEfhCd4en0WlRfuFgQ2rwva9e1CuXnto5vNGvRsNVimHENnvjegf6nKG9ZH+51McAZ/huqRtTziYg==",
+      "type": "package",
+      "path": "stateless/5.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Stateless.png",
+        "lib/net40/Stateless.dll",
+        "lib/net40/Stateless.xml",
+        "lib/net45/Stateless.dll",
+        "lib/net45/Stateless.xml",
+        "lib/net472/Stateless.dll",
+        "lib/net472/Stateless.xml",
+        "lib/net5.0/Stateless.dll",
+        "lib/net5.0/Stateless.xml",
+        "lib/net6.0/Stateless.dll",
+        "lib/net6.0/Stateless.xml",
+        "lib/netstandard1.0/Stateless.dll",
+        "lib/netstandard1.0/Stateless.xml",
+        "lib/netstandard2.0/Stateless.dll",
+        "lib/netstandard2.0/Stateless.xml",
+        "stateless.5.13.0.nupkg.sha512",
+        "stateless.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Stateless >= 5.13.0"
+    ]
+  },
+  "packageFolders": {
+    "/var/folders/x7/z0f1vjjs4yj_wwgfmmyz7zjc0000gn/T/cursor-sandbox-cache/f889410acc4d60a95dcbd5c1355aeb33/nuget": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sashosha/ST-4/BugPro/BugPro.csproj",
+      "projectName": "BugPro",
+      "projectPath": "/Users/sashosha/ST-4/BugPro/BugPro.csproj",
+      "packagesPath": "/var/folders/x7/z0f1vjjs4yj_wwgfmmyz7zjc0000gn/T/cursor-sandbox-cache/f889410acc4d60a95dcbd5c1355aeb33/nuget",
+      "outputPath": "/Users/sashosha/ST-4/BugPro/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sashosha/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Stateless": {
+            "target": "Package",
+            "version": "[5.13.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

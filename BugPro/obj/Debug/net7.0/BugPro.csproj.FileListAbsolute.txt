@@ -1,0 +1,17 @@
+/Users/sashosha/ST-4/BugPro/bin/Debug/net7.0/BugPro
+/Users/sashosha/ST-4/BugPro/bin/Debug/net7.0/BugPro.deps.json
+/Users/sashosha/ST-4/BugPro/bin/Debug/net7.0/BugPro.runtimeconfig.json
+/Users/sashosha/ST-4/BugPro/bin/Debug/net7.0/BugPro.dll
+/Users/sashosha/ST-4/BugPro/bin/Debug/net7.0/BugPro.pdb
+/Users/sashosha/ST-4/BugPro/bin/Debug/net7.0/Stateless.dll
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.csproj.AssemblyReference.cache
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.AssemblyInfoInputs.cache
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.AssemblyInfo.cs
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.csproj.CoreCompileInputs.cache
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.csproj.CopyComplete
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.dll
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/refint/BugPro.dll
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.pdb
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/BugPro.genruntimeconfig.cache
+/Users/sashosha/ST-4/BugPro/obj/Debug/net7.0/ref/BugPro.dll
